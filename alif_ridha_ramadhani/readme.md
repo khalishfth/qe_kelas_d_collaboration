@@ -1,5 +1,5 @@
 # Alif Ridha Ramadhani
 
-### Universitas Pendidikan Indonesia
+# Universitas Pendidikan Indonesia
 
-### Ingin memperbaiki dan meneumkan bug dari aplikasi sendiri
+### ingin Memperdalam dan lebih memahami QE dan mengerti dari kekurangan aplikasi yang pernah dibuat di kampus
