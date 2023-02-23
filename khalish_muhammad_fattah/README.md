@@ -2,4 +2,4 @@
 
 # Universitas Brawijaya - Sistem Informasi
 
-## Eksplor wawasan di ranah Quality Engineer
+### Eksplor wawasan di ranah Quality Engineer
